@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Kajiro';
+    src: url('.src/fonts/Kajiro Bold.ttf');
+}
